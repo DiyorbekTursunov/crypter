@@ -1,0 +1,11 @@
+import logo from './logo.svg'
+import search from './search.svg'
+import menubtn from './Group 1.png'
+import CuratedArtworkImg from './Group 2.png'
+import plaseholder from './placeholder.svg'
+import bgImg from './imgbg.svg'
+import vector from './Vector.png'
+import Icon from './icon.png'
+import Icon2 from './original-38af1750d24c8a6b4683989b1c89882f 1.png'
+import Frime from './Frame 1323.jpg'
+export default [logo , search , menubtn , CuratedArtworkImg , plaseholder , bgImg , vector , Icon , Icon2 , Frime]
